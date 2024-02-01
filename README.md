@@ -19,4 +19,4 @@ You don't have to do anything after starting the executable. It keeps running in
 You are welcome to contribute to this utility. Please open an issue first to discuss the modification before opening a PR.
 
 ## License
-MIT
+This project is licensed under the [MIT License](/LICENSE).
